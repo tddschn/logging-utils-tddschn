@@ -2,7 +2,10 @@
 name = "logging-utils-tddschn"
 version = "0.1.3"
 description = "Logging utilities for personal use."
-authors = ["Teddy Xinyuan Chen <45612704+tddschn@users.noreply.github.com>"]
+authors = ["Xinyuan Chen <45612704+tddschn@users.noreply.github.com>"]
+readme = "README.md"
+license = "MIT"
+
 
 [tool.poetry.dependencies]
 python = "^3.10"
