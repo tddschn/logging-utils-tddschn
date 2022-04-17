@@ -1,3 +1,11 @@
+# logging-utils-tddschn
+
+Logging utilities for personal use.
+
+- [logging-utils-tddschn](#logging-utils-tddschn)
+	- [Install](#install)
+	- [Example Usage](#example-usage)
+		- [`get_logger`](#get_logger)
 ## Install
 ```
 $ pip install logging-utils-tddschn

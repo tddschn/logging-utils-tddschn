@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "logging-utils-tddschn"
 version = "0.1.2"
-description = "Logging utilities for my personal use."
+description = "Logging utilities for personal use."
 authors = ["Teddy Xinyuan Chen <45612704+tddschn@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
