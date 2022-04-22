@@ -23,6 +23,7 @@ def get_logger(name,
         # https://stackoverflow.com/questions/7016056/python-logging-not-outputting-anything
         logging.basicConfig(level=logging.NOTSET)
         logger.setLevel(level)
+        logger.propagate = False
         ch = logging.StreamHandler()
         # ch.setLevel(logging.INFO)
 
