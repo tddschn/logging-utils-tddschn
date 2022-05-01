@@ -3,7 +3,8 @@
 import os
 import logging
 from logging import Logger
-from distutils.util import strtobool
+# from distutils.util import strtobool
+from utils_tddschn import strtobool
 from typing import Literal
 
 logging_format = '%(levelname)s:%(name)s:%(pathname)s:%(lineno)s:%(funcName)s:%(message)s'
