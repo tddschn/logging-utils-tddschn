@@ -17,7 +17,7 @@ keywords = ["logging"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-utils-tddschn = "^1.0.0"
+utils-tddschn = "^1.0.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
